@@ -27,6 +27,7 @@ An exploratory sales data analysis project focused on querying retail transactio
 
 ### 1. Dataset Exploration
 Retrieving initial sample records to inspect schema columns, data types, and order attributes.
+
 ```sql
 SELECT TOP 10 *
 FROM Retail_Sales_Company;
